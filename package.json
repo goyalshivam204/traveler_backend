@@ -1,13 +1,13 @@
 {
-  "name": "ecommerce",
+  "name": "traveler-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "sarv",
+  "author": "shivam",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.5.5",
